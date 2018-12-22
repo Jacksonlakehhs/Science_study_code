@@ -12,7 +12,9 @@ elif x == "microtubule":
         print("Shape and support the cell. They also act as tracks for organelles with motor proteins to move.")
     elif y == "structure":
         print("Composed of tubulin arranged in a straight, hollow tube")
-
-
-
-
+elif x == "int filament":
+     y = input("function or structure? ")
+    if y == "function":
+        print("")
+    elif y == "structure":
+        print("")
