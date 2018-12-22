@@ -1,7 +1,7 @@
 x = input("which part of the cytoskeleton are you confused about? ")
-y = input("function or structure? ")
 
-if x == "microfilament
+if x == "microfilament":
+    y = 
 
 
 
