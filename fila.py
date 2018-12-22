@@ -10,4 +10,4 @@ while x == "microfilament":
 while x == "microtubule":
     if y == "function:
         print("Shape and support the cell. They also act as tracks for organelles with motor proteins to move":
-        print("Composed of actin arranged in twisted double chain.")
+        print("Composed of tubulin arranged in a straight, hollow tube.")
