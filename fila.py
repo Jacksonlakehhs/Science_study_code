@@ -13,7 +13,7 @@ elif x == "microtubule":
     elif y == "structure":
         print("Composed of tubulin arranged in a straight, hollow tube")
 elif x == "int filament":
-     y = input("function or structure? ")
+    y = input("function or structure? ")
     if y == "function":
         print("Reinforce cell shape and anchor some organelles.")
     elif y == "structure":
